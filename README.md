@@ -57,25 +57,6 @@ A lightweight Fabric client-side mod that adds a GUI to log in using Minecraft s
 
 ---
 
-##  Screenshots
-
-**Multiplayer Screen**  
-![Multiplayer Screen](https://github.com/user-attachments/assets/05d1ba99-01c5-429d-8feb-d0523a807df3)
-
-**Login Screen (Before Session Login)**  
-![Login Before](https://github.com/user-attachments/assets/cf19e550-b7fa-4154-a160-0b071c04c4e7)
-
-**Login Screen (After Session Login)**  
-![Login After](https://github.com/user-attachments/assets/0922a793-531b-4ccc-a70b-e7a9bd2d40a3)
-
-**Edit Account Screen (On Original Session)**  
-![Edit Account Original](https://github.com/user-attachments/assets/4449124d-0cd1-416d-8187-86aef753dd5b)
-
-**Edit Account Screen (On Session ID)**  
-![Edit Account Session](https://github.com/user-attachments/assets/1f8cd89f-aa8b-4c6a-b154-46785984e00f)
-
----
-
-## 🤝 Contributions
+##  Contributions
 
 Issues and PRs are welcome! Suggestions and improvements are appreciated — feel free to contribute or discuss ideas.
