@@ -31,7 +31,7 @@ A lightweight Fabric client-side mod that adds a GUI to log in using Minecraft s
 
 ##  Installation
 
-1. Download the mod `.jar` from [Releases](https://github.com/Majanito/Fabric-Session-Login/releases)
+1. Download the mod `.jar` from [Releases]([https://github.com/vy57/Fabric-Session-Login-1.8.9/releases/download/1.8.9/session-id-login-mod-1.1.0.jar])
 2. Place it in your `.minecraft/mods` folder
 3. Launch the game using a Legacy Fabric 1.8.9 profile
 
