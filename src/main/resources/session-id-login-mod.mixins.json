@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "dev.majanito.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"refmap": "session-id-login-mod-refmap.json",
+	"client": [
+		"MultiplayerScreenMixin",
+		"MinecraftClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
